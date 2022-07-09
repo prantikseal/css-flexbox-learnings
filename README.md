@@ -6,8 +6,7 @@
 <h3>I hope you like it!!</h3>
 <h3>Thanks for checking this repo!!</h3>
 <h3>Prantik Seal</h3>
-<h3>@prantikseal</h3>
-<h3>
+<h5>@prantikseal</h5>
 <a href="https://twitter.com/prantikseal">
 <img src="https://cdn.worldvectorlogo.com/logos/twitter-1.svg" alt="Twitter" width="32" height="32">
 </a>
