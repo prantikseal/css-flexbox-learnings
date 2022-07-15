@@ -7,3 +7,9 @@ Flex direction is used to control the direction of the flex items.
 - When the flexdirection is `column`, the flex items are laid out `vertically`.
 
 The basic syntax is: `flex-direction: row/column`.
+
+when the flex direction is row we can consider it as
+
+image: https://i.imgur.com/XqQZQZq.png
+
+when the flex direction is column we can consider it as
