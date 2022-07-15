@@ -8,6 +8,11 @@ Flex direction is used to control the direction of the flex items.
 
 The basic syntax is: `flex-direction: row/column`.
 
-when the flex direction is row we can consider it as
+When we consider flex-direction we consider two axis:
+- The main axis is the axis that the flex items are laid out on.
 
 <a href="https://i.ibb.co/6s3rCsG/image.png"><img src="https://i.ibb.co/6s3rCsG/image.png" alt="image" border="0"></a>
+
+- The cross axis is the axis that the flex items are laid out on.
+
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/qy0fsdm/image.png" alt="image" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>image url host</a><br />
