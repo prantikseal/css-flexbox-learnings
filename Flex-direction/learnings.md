@@ -15,4 +15,4 @@ When we consider flex-direction we consider two axis:
 
 - The cross axis is the axis that the flex items are laid out on.
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/qy0fsdm/image.png" alt="image" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>image url host</a><br />
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/qy0fsdm/image.png" alt="image" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br />
