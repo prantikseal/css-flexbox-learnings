@@ -4,6 +4,7 @@ In this section, we will learn how to use the flex-direction property to change 
 
 If you dont know the difference between rows and columns here is a quick reference:
 <img src="https://xscholarship.com/wp-content/uploads/2021/05/Screenshot_20210530-155338.png" alt="difference between row and column">
+
 Flex direction is used to control the direction of the flex items.
 - The default direction is `row`, which means the flex items are laid out horizontally.
 
