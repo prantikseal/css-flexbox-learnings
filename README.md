@@ -5,6 +5,7 @@
 
 <h3>If you like the details of this repo, please star it on <a href="https://github.com/prantikseal/css-flexbox-learnings">Github</a></h3>
 <h3>I hope you like it!!</h3>
+<h3>I am learning this from the Legend Wes-Bos and you can also check here : <a href="http://flexbox.io/"></a></h3>
 <h3>Thanks for checking this repo!!</h3>
 <h3>Prantik Seal</h3>
 <a href="https://twitter.com/prantikseal" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="prantikseal" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
