@@ -4,6 +4,10 @@ This is the first lecture series that I am documenting here about FlexBox.
 
 Flex Box is a layout system that allows you to lay out elements in a way that is easy to understand and easy to use.
 
+In the html code you will see that
+
+[]: # The container is known as the Flex-Box and the elements inside the container are the flex-items.
+
 Syntax:
     display : flex;
     border: 10px solid goldenrod;

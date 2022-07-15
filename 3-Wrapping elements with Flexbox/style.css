@@ -22,5 +22,5 @@
     display: flex;
     border: 10px solid goldenrod;
     height: 100vh;
-    flex-direction: column;
+    flex-direction: row;
 }
