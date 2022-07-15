@@ -10,6 +10,7 @@ We declare wrap elements in the flex container with the flex-wrap property.
 
 - This is where we use the flex-wrap property.
 
-The syntax is:
-    flex-wrap: wrap;
+- The default value of flex-wrap is nowrap. And it is declared as flex-wrap: nowrap;
+
+- The syntax is: flex-wrap: wrap;
 
