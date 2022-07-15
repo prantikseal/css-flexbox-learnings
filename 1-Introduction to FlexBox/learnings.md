@@ -6,7 +6,7 @@ Flex Box is a layout system that allows you to lay out elements in a way that is
 
 In the html code you will see that
 
-[]: # The container is known as the Flex-Box and the elements inside the container are the flex-items.
+The container is known as the Flex-Box and the elements inside the container are the flex-items.
 
 Syntax:
     display : flex;
