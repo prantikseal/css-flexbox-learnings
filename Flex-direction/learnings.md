@@ -10,6 +10,4 @@ The basic syntax is: `flex-direction: row/column`.
 
 when the flex direction is row we can consider it as
 
-image: https://i.imgur.com/XqQZQZq.png
-
-when the flex direction is column we can consider it as
+<a href="https://i.ibb.co/6s3rCsG/image.png"><img src="https://i.ibb.co/6s3rCsG/image.png" alt="image" border="0"></a>
